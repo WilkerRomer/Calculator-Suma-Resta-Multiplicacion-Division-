@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp_RadioButton</string>
+    <string name="Primer_Número_string">Ingresar Cantidad</string>
+    <string name="Segundo_Número_string">Ingresar Cantidad</string>
+    <string name="button_sumar_string">Sumar</string>
+    <string name="button_restar_strig">Restar</string>
+    <string name="button_multiplic">Multiplicar</string>
+    <string name="button_dividir">Dividir</string>
+    <string name="button_string">OBTENER</string>
+    <string name="resultado_string">RESULTADO</string>
+</resources>
